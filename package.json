@@ -1,0 +1,6 @@
+{
+  "name": "monotest",
+  "workspaces": [
+    "service"
+  ]
+}
